@@ -2,7 +2,7 @@
 
 * Студент: [Арам Хачатрян](https://up.htmlacademy.ru/htmlcss-individual/2/user/2475789).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra)`.
-
+Сайт:[Мой проект Седона](https://frontaram99.github.io/2475789-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
