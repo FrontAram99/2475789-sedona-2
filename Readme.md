@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Арам](https://up.htmlacademy.ru/htmlcss-individual/2/user/2475789).
-* Наставник: .
+* Студент: [Арам Хачатрян](https://up.htmlacademy.ru/htmlcss-individual/2/user/2475789).
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra)`.
 
 ---
 
